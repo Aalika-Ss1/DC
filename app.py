@@ -3,6 +3,7 @@ import asyncio
 import logging
 from datetime import datetime, timezone
 from pathlib import Path
+from aiohttp import web
 
 try:
     import discord
@@ -191,19 +192,33 @@ async def on_app_command_error(interaction: discord.Interaction, error):
     except Exception as exc:
         logger.error(f"Could not send error response: {exc}")
 
-def main():
+async def handle_ping(request):
+    return web.Response(text="Bot is alive!")
+
+async def web_server():
+    app = web.Application()
+    app.add_routes([web.get('/', handle_ping)])
+    runner = web.AppRunner(app)
+    await runner.setup()
+    port = int(os.environ.get("PORT", 8080))
+    site = web.TCPSite(runner, '0.0.0.0', port)
+    await site.start()
+    logger.info(f"Dummy web server started on port {port}")
+
+async def main():
     token = os.environ.get("DISCORD_TOKEN")
     if not token:
         logger.error("No token found. Please set DISCORD_TOKEN in the .env file or environment variables.")
         return
 
     try:
+        asyncio.create_task(web_server())
         logger.info("Connecting to Discord...")
-        bot.run(token, log_handler=None)
+        await bot.start(token)
     except discord.LoginFailure:
         logger.error("Login failed: invalid bot token.")
     except Exception as exc:
         logger.error(f"Bot error: {exc}")
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
