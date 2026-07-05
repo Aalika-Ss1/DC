@@ -1,0 +1,8 @@
+Connected as OnlyFan#9349.
+Guild: ✪HILARIOUS✪ (1422980759433777194)
+Bot current top role: รองประมุข (ตัวลูก) position=32
+Created role: OnlyFan Manager
+Placed OnlyFan Manager below รองประมุข (ตัวลูก).
+Assigned role to bot: OnlyFan Manager
+Could not remove รองประมุข (ตัวลูก) from bot due to Discord hierarchy. Remove it manually after confirming OnlyFan Manager is assigned.
+Bot final top role: รองประมุข (ตัวลูก) position=33

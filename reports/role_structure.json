@@ -1,0 +1,23 @@
+{
+  "management_roles": [
+    "ประมุขน้อย (ตัวแม่)",
+    "รองประมุข (ตัวลูก)",
+    "เลขานุการสำนัก"
+  ],
+  "bot_accounts": [
+    "Dyno",
+    "ServerStats",
+    "Chompu",
+    "Jockie Music"
+  ],
+  "bot_roles": [
+    "ภูตสำนัก",
+    "สายลับ",
+    "Hilarious Manager"
+  ],
+  "notes": {
+    "management_roles": "Human roles allowed to manage or approve role structure changes.",
+    "bot_accounts": "Roles owned by bot accounts. High permissions here are expected but should be isolated.",
+    "bot_roles": "Server-defined roles intended for bot/system behavior, not human hierarchy."
+  }
+}

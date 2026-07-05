@@ -1,0 +1,276 @@
+Role report for ✪HILARIOUS✪
+Server ID: 1422980759433777194
+Role count: 34
+
+1. ประมุขน้อย (ตัวแม่)
+   ID: 1436009767637356544
+   Position: 34
+   Members: 0
+   Color: #f09916
+   Mentionable: True
+   Hoisted: True
+   Key permissions: ADMIN, Manage Server, Manage Roles, Manage Channels, Ban, Kick, Timeout
+2. รองประมุข (ตัวลูก)
+   ID: 1422980759433777200
+   Position: 33
+   Members: 0
+   Color: #f802b0
+   Mentionable: True
+   Hoisted: True
+   Key permissions: ADMIN, Manage Server, Manage Roles, Manage Channels, Ban, Kick, Timeout
+3. เลขานุการสำนัก
+   ID: 1422980759433777199
+   Position: 32
+   Members: 0
+   Color: #b936e6
+   Mentionable: True
+   Hoisted: True
+   Key permissions: Manage Server, Manage Roles, Manage Channels, Ban, Kick, Timeout
+4. Golden spatura
+   ID: 1452448295208227018
+   Position: 31
+   Members: 1
+   Color: #a9c9ff
+   Mentionable: False
+   Hoisted: True
+   Key permissions: standard
+5. NARAKA
+   ID: 1434433927078084700
+   Position: 30
+   Members: 0
+   Color: #008df8
+   Mentionable: False
+   Hoisted: True
+   Key permissions: standard
+6. ศิษย์สายตรง
+   ID: 1434047067248001024
+   Position: 29
+   Members: 0
+   Color: #f57507
+   Mentionable: False
+   Hoisted: True
+   Key permissions: standard
+7. ศิษย์สายใน
+   ID: 1422980759433777196
+   Position: 28
+   Members: 1
+   Color: #79f50c
+   Mentionable: False
+   Hoisted: True
+   Key permissions: standard
+8. ศิษย์สายนอก
+   ID: 1422980759433777197
+   Position: 27
+   Members: 0
+   Color: #fc0505
+   Mentionable: False
+   Hoisted: True
+   Key permissions: standard
+9. สุ่ยเมื่ง-nightwaker
+   ID: 1423026690602303600
+   Position: 26
+   Members: 0
+   Color: #0c17ec
+   Mentionable: False
+   Hoisted: False
+   Key permissions: standard
+10. เถี่ยยี-ironclad
+   ID: 1423026899558334624
+   Position: 25
+   Members: 0
+   Color: #26ee18
+   Mentionable: False
+   Hoisted: False
+   Key permissions: standard
+11. ซือเหอ-bloodstorm
+   ID: 1423027732064763974
+   Position: 24
+   Members: 0
+   Color: #fa51b3
+   Mentionable: False
+   Hoisted: False
+   Key permissions: standard
+12. ซู่เวิ่น-celestune
+   ID: 1423027949111611435
+   Position: 23
+   Members: 0
+   Color: #f0770d
+   Mentionable: False
+   Hoisted: False
+   Key permissions: standard
+13. เสิ่นเซียง-sylph
+   ID: 1423030749258448957
+   Position: 22
+   Members: 0
+   Color: #10e670
+   Mentionable: False
+   Hoisted: False
+   Key permissions: standard
+14. จิ่วหลิง-numina
+   ID: 1423030881936740362
+   Position: 21
+   Members: 0
+   Color: #0bfafa
+   Mentionable: False
+   Hoisted: False
+   Key permissions: standard
+15. ยังไม่เลือกอาชีพ
+   ID: 1429073459497144361
+   Position: 20
+   Members: 0
+   Color: #9b8666
+   Mentionable: False
+   Hoisted: True
+   Key permissions: standard
+16. Server Booster
+   ID: 1423003457396150414
+   Position: 19
+   Members: 0
+   Color: #f47fff
+   Mentionable: False
+   Hoisted: False
+   Key permissions: standard
+17. ทั่วไป
+   ID: 1423067104797659146
+   Position: 18
+   Members: 1
+   Color: #0d0d0d
+   Mentionable: False
+   Hoisted: True
+   Key permissions: standard
+18. Zira
+   ID: 1422990190368260239
+   Position: 17
+   Members: 0
+   Color: default
+   Mentionable: False
+   Hoisted: False
+   Key permissions: Manage Roles
+19. Mimu
+   ID: 1423005287605997772
+   Position: 16
+   Members: 0
+   Color: default
+   Mentionable: False
+   Hoisted: False
+   Key permissions: Manage Server, Manage Roles, Manage Channels
+20. Dyno
+   ID: 1423199300808216671
+   Position: 15
+   Members: 0
+   Color: default
+   Mentionable: False
+   Hoisted: False
+   Key permissions: ADMIN, Manage Server, Manage Roles, Manage Channels, Ban, Kick, Timeout
+21. Tatsu
+   ID: 1423364728310468641
+   Position: 14
+   Members: 0
+   Color: default
+   Mentionable: False
+   Hoisted: False
+   Key permissions: Manage Channels, Ban, Kick
+22. ServerStats
+   ID: 1423370379698634844
+   Position: 13
+   Members: 0
+   Color: default
+   Mentionable: False
+   Hoisted: False
+   Key permissions: ADMIN, Manage Channels
+23. MatchBox
+   ID: 1423605272026288221
+   Position: 12
+   Members: 0
+   Color: default
+   Mentionable: False
+   Hoisted: False
+   Key permissions: Manage Channels
+24. Murphy
+   ID: 1423653792565563535
+   Position: 11
+   Members: 0
+   Color: default
+   Mentionable: False
+   Hoisted: False
+   Key permissions: Manage Channels
+25. Embed Generator
+   ID: 1428338073913262173
+   Position: 10
+   Members: 0
+   Color: default
+   Mentionable: False
+   Hoisted: False
+   Key permissions: standard
+26. Chompu
+   ID: 1434174220232818712
+   Position: 9
+   Members: 1
+   Color: default
+   Mentionable: False
+   Hoisted: False
+   Key permissions: ADMIN, Manage Channels
+27. ภูตสำนัก
+   ID: 1422980759433777198
+   Position: 8
+   Members: 2
+   Color: default
+   Mentionable: False
+   Hoisted: False
+   Key permissions: ADMIN, Manage Server, Manage Roles, Manage Channels, Ban, Kick, Timeout
+28. สายลับ
+   ID: 1422980759433777195
+   Position: 7
+   Members: 2
+   Color: #ff8400
+   Mentionable: False
+   Hoisted: True
+   Key permissions: Manage Server, Manage Roles, Manage Channels, Ban, Kick, Timeout
+29. สมาชิกกิลด์ 1
+   ID: 1437411795714445322
+   Position: 6
+   Members: 0
+   Color: #ff006e
+   Mentionable: False
+   Hoisted: False
+   Key permissions: standard
+30. Jockie Music
+   ID: 1441301036328288290
+   Position: 5
+   Members: 0
+   Color: default
+   Mentionable: False
+   Hoisted: False
+   Key permissions: ADMIN
+31. TTS Bot
+   ID: 1462819525224566891
+   Position: 4
+   Members: 0
+   Color: default
+   Mentionable: False
+   Hoisted: False
+   Key permissions: standard
+32. TikTok
+   ID: 1485152281308434624
+   Position: 3
+   Members: 0
+   Color: default
+   Mentionable: False
+   Hoisted: False
+   Key permissions: Manage Roles, Kick
+33. OnlyFan
+   ID: 1523166993535078519
+   Position: 2
+   Members: 1
+   Color: default
+   Mentionable: False
+   Hoisted: False
+   Key permissions: standard
+34. OnlyFan Manager
+   ID: 1523175443208077421
+   Position: 1
+   Members: 1
+   Color: #5865f2
+   Mentionable: False
+   Hoisted: False
+   Key permissions: Manage Roles, Manage Channels

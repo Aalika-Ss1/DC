@@ -1,0 +1,27 @@
+Connected as OnlyFan#9349.
+Guild: ✪HILARIOUS✪ (1422980759433777194)
+Bot top role: รองประมุข (ตัวลูก) position=32
+Deleted role: แม่ทัพ
+Skipped managed role: OnlyFan
+Skipped managed role: TikTok
+Skipped managed role: TTS Bot
+Skipped managed role: Jockie Music
+Invite permission denied: ภูตสำนัก
+Skipped managed role: Chompu
+Skipped managed role: Embed Generator
+Skipped managed role: Murphy
+Skipped managed role: MatchBox
+Skipped managed role: ServerStats
+Skipped managed role: Tatsu
+Skipped managed role: Dyno
+Skipped managed role: Mimu
+Skipped managed role: Zira
+Invite permission denied: ทั่วไป
+Skipped managed role: Server Booster
+Invite permission denied: ศิษย์สายนอก
+Invite permission denied: ศิษย์สายใน
+Invite permission denied: ศิษย์สายตรง
+Invite permission denied: Golden spatura
+Blocked by hierarchy: รองประมุข (ตัวลูก) position=32
+Blocked by hierarchy: ประมุขน้อย (ตัวแม่) position=33
+Done. Edited=6, skipped_managed=14, blocked_hierarchy=2

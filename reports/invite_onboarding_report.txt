@@ -1,0 +1,24 @@
+Guild: ✪HILARIOUS✪ (1422980759433777194)
+Features: AUTO_MODERATION, COMMUNITY, GUILD_ONBOARDING, GUILD_ONBOARDING_EVER_ENABLED, GUILD_ONBOARDING_HAS_PROMPTS, GUILD_SERVER_GUIDE, MEMBER_VERIFICATION_GATE_ENABLED, NEWS, PIN_PERMISSION_MIGRATION_COMPLETE, RAID_ALERTS_DISABLED, SOUNDBOARD, TIERLESS_BOOSTING
+Rules channel: 🛡️-กฎกิลด์-guild-rules
+Public updates channel: 🦏-พูดคุย-admin-สำนัก
+
+Invite permission roles:
+- ประมุขน้อย (ตัวแม่) | position=34 | managed=False
+- รองประมุข (ตัวลูก) | position=33 | managed=False
+- เลขานุการสำนัก | position=32 | managed=False
+- Mimu | position=16 | managed=True
+- Dyno | position=15 | managed=True
+- MatchBox | position=12 | managed=True
+- TikTok | position=3 | managed=True
+- OnlyFan Manager | position=1 | managed=False
+
+Onboarding endpoint status: 200
+Onboarding enabled: True
+Onboarding prompt count: 2
+- Prompt: คุณเข้าร่วมเพราะเกมไหน | required=False | in_onboarding=True | options=3
+- Prompt: คุณเข้าร่วมกับเราเพราะใคร  | required=False | in_onboarding=False | options=4
+
+Member verification endpoint status: 200
+Verification form field count: 1
+- Field: อ่านและยอมรับกฎของเซิร์ฟเวอร์ | required=True
